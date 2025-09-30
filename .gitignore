@@ -1,0 +1,16 @@
+# Compiled binaries
+data_monitor
+
+# Object files
+*.o
+*.obj
+
+# Temporary files
+*~
+*.tmp
+*.bak
+
+# IDE files
+.vscode/
+*.swp
+*.swo
